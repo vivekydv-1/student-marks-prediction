@@ -121,6 +121,10 @@ Vivek Yadav
 
 B.Tech IT Student | Learning Python & Machine Learning
 
+## 🚀 Live Demo
+
+[Click here to use the live app](https://student-marks-prediction-4ttnhtvmuir3qqtmlv9wz6.streamlit.app/)
+
 
 
 
